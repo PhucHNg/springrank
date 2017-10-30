@@ -1,0 +1,13 @@
+Note:
+
+Wed, 9-13-2017
+----------------------------------------------------------------------
+
+Here's some data that may be something like you are looking for. I pulled out a couple groups that have very high containment (the second eigenvalue, a measure of the extent to which aggression gets stuck in parts of the matrix, which gets somewhat at the community structure you mentioned). Containment value is in the "C" colunm. These are the top 5 groups that I have for containment values, some are pretty small though (number of individuals is in "N" column, number of contacts (here, fights) is in the "Counts" column).
+
+Filename	N	Counts	Steepness	Linearity	C	C Null Avg	C pval	Species	File.Name	Common.Name
+Thompson1960-JJ59C.csv	8	117	0.631612898	0.857142857	17.48528	2.408501	0	Carpodacus mexicanus	Thompson1960-JJ59C.csv	House Finch (Carpodacus mexicanus)
+Kaufmann1974-7.csv	21	238	0.095970535	0.172597403	16.12702	6.666667	0	Macropus parryi	Kaufmann1974-7.csv	Whiptail Wallaby (Macropus parryi)
+Yasukawa1983-5a.csv	6	140	0.841827419	1	14.89375	5.350415	0	Junco hyemalis	Yasukawa1983-5a.csv	Dark-eyed Junco (Junco hyemalis)
+Bonanni2007-2.csv	14	565	0.351714758	0.566813187	14.74503	6.249521	0	Felis catus	Bonanni2007-2.csv	Feral Cat	
+Blatrix2004-2.csv	8	46	0.25922619	0.512857143	11.78426	1.914558	0	Protomognathus americanus	Blatrix2004-2.csv	ant (Protomognathus americanus)

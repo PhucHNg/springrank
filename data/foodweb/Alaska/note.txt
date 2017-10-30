@@ -1,0 +1,11 @@
+Note:
+
+Wed, 9-13-2017
+-----------------------------------------------------------------------------
+
+Contains foodwebs with varying spatial scales.
+
+Foodwebs have top, inter, and basal species. Good for tiers detection.
+Not sure about the parallel sub-hierarchies
+
+=============================================================================

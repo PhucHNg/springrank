@@ -1,0 +1,15 @@
+Note:
+
+Wed, 9-13-2017
+----------------------------------------------------------------------------
+Lake food web is much smaller.
+
+Forest food web is more specialized, that is, many taxas feed exclusively on one other taxa.
+
+Both have the top, basal, and intermediate taxas. These will serve as the tiers. 
+
+There are plants, insects, herbivors, carnivors and omivors. For instance, at least would it be able to tell between the insects and mammal herbivors? Maybe there are carnivors that only eat insects, and those that eat other mammals. Maybe the overlapping sub-hierarchies.
+
+Though, I think it's fine to just get the tier structures.
+
+=============================================================================
