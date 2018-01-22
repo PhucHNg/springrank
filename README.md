@@ -1,9 +1,6 @@
-# springrank
-Things I did at Santa Fe Institute 2017
-
 # Implementation of SpringRank model
 
-SpringRank is a ranking model for weighted, directed networks. SpringRank returns real-valued scores which can be used to order nodes in a network.
+SpringRank is a ranking model for weighted, directed networks. The model returns real-valued scores which can be used to order nodes in a network.
 Read more about how SpringRank works here: https://arxiv.org/abs/1709.09002
 
 This is an implementation of the model I used to conduct some experiments on the model as part of my summer research.
