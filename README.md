@@ -1,0 +1,25 @@
+# springrank
+Things I did at Santa Fe Institute 2017
+
+# Implementation of SpringRank model
+
+SpringRank is a ranking model for weighted, directed networks. It returns real-valued scores which can be used to order nodes in a network.
+Read more about how SpringRank works here: https://arxiv.org/abs/1709.09002
+
+This is an implementation of the SpringRank model I used to conduct some experiments ong the model as part of my summer research.
+
+## How to use
+
+At the moment, all functions are stored in springrank.py.
+You can download springrank.py and import it as a module into your code file. You need to have `numpy`, `scipy`, `sklearn`, `matplotlib` and `networkx` installed.
+
+## Example
+
+`import springrank as sp`
+`import numpy as np`
+`A = np.array([[0,1,0],[0,0,1],[0,1,0]])`
+`scores = sp.spring_rank(A)`
+
+## Note
+
+This is work in progress so it might contain bugs and some functions I use for experiments that are not in the paper.
