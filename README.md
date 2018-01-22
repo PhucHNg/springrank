@@ -7,20 +7,20 @@ This is an implementation of the model I used to conduct some experiments on the
 
 ## How to use
 
-At the moment, all functions are stored in springrank.py.
-You can download springrank.py and import it as a module into your code file. You need to have `numpy`, `scipy`, `sklearn`, `matplotlib` and `networkx` installed.
+At the moment, all functions are stored in rank.py.
+You can download rank.py and import it as a module into your code file. You need to have `numpy`, `scipy`, `sklearn`, `matplotlib` and `networkx` installed.
 
 ## Example
 
 ```
-import springrank as sp
+import rank
 import numpy as np
 
 # Encode a network in an adjacency matrix 
 A = np.array([[0,1,0],[0,0,1],[0,1,0]])
 
 # Infer a ranking
-scores = sp.spring_rank(A)
+scores = rank.spring_rank(A)
 ```
 
 ## Note
